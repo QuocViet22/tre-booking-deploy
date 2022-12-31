@@ -1,0 +1,6 @@
+[submodule "tre-booking-be"]
+	path = tre-booking-be
+	url = git@github.com:vanh01/tre-booking-be.git
+[submodule "tre-booking-fe"]
+	path = tre-booking-fe
+	url = git@github.com:ngochienhv/che-booking-fe.git
